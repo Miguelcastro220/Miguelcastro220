@@ -13,16 +13,15 @@
 
 <div align="center">
 ╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                         ║
+║                    DEVELOPER PROFILE                        ║
 ╠══════════════════════════════════════════════════════════════╣
-║  NAME       :: Miguel Antonio                                ║
-║  USER       :: Miguelcastro220                               ║
-║  ROLE       :: Software Developer • Student                  ║
-║  SPECIALTY  :: Programming & Software Development            ║
-║  MODE       :: BUILD • LEARN • CREATE                        ║
-║  SYSTEM     :: ONLINE                                        ║
+║  NAME       :: Miguel Antonio                               ║
+║  USER       :: Miguelcastro220                              ║
+║  ROLE       :: Software Developer • Student                ║
+║  SPECIALTY  :: Programming & Software Development          ║
+║  MODE       :: BUILD • LEARN • CREATE                       ║
+║  SYSTEM     :: ONLINE                                       ║
 ╚══════════════════════════════════════════════════════════════╝
-
 </div>👨‍💻 Sobre Mim
 
 Olá! Eu sou Miguel Antonio, estudante e desenvolvedor em formação, apaixonado por tecnologia, programação e desenvolvimento de software.
