@@ -182,7 +182,8 @@ Projeto futuro para expandir meu portfólio e aplicar novos conhecimentos.
 
 "> SYSTEM_LOG"
 
-<div align="center">[ SYSTEM LOG ]
+<div align="center"><pre>
+     [ SYSTEM LOG ]
 
 [00:00:01] Initializing developer profile...
 [00:00:02] Loading repositories................ OK
@@ -194,7 +195,7 @@ Projeto futuro para expandir meu portfólio e aplicar novos conhecimentos.
 > SYSTEM READY
 > KEEP BUILDING.
 
-</div>---
+</pre></div>---
 
 "> CONNECT"
 
