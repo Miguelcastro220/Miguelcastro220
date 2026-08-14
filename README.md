@@ -9,20 +9,21 @@
 <img src="https://img.shields.io/badge/STATUS-LEARNING-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-00FF88?style=for-the-badge&logo=codeforces&logoColor=black"/></div>---
 
-"> WHO_AM_I"
+«WHO_AM_I»
 
-<div align="center">
+<div align="center"><pre>
 ╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                        ║
+║                    DEVELOPER PROFILE                         ║
 ╠══════════════════════════════════════════════════════════════╣
-║  NAME       :: Miguel Antonio                               ║
-║  USER       :: Miguelcastro220                              ║
-║  ROLE       :: Software Developer • Student                ║
-║  SPECIALTY  :: Programming & Software Development          ║
-║  MODE       :: BUILD • LEARN • CREATE                       ║
-║  SYSTEM     :: ONLINE                                       ║
+║  NAME       :: Miguel Antonio                                ║
+║  USER       :: Miguelcastro220                               ║
+║  ROLE       :: Software Developer • Student                  ║
+║  SPECIALTY  :: Programming & Software Development            ║
+║  MODE       :: BUILD • LEARN • CREATE                        ║
+║  SYSTEM     :: ONLINE                                        ║
 ╚══════════════════════════════════════════════════════════════╝
-</div>👨‍💻 Sobre Mim
+</pre></div>
+👨‍💻 Sobre Mim
 
 Olá! Eu sou Miguel Antonio, estudante e desenvolvedor em formação, apaixonado por tecnologia, programação e desenvolvimento de software.
 
