@@ -180,20 +180,23 @@ Projeto futuro para expandir meu portfólio e aplicar novos conhecimentos.
 "> CONTRIBUTION_PROTOCOL"
 <div align="center"><img src="https://raw.githubusercontent.com/Miguelcastro220/Miguelcastro220/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/></div>---
 
-"> SYSTEM_LOG"
+---
+> SYSTEM_LOG
 
-<div align="center"><pre>
-     [ SYSTEM LOG ]
+<div align="center">
 
-[00:00:01] Initializing developer profile...
-[00:00:02] Loading repositories................ OK
-[00:00:03] Loading technologies............... OK
-[00:00:04] Loading projects................... OK
-[00:00:05] Loading GitHub activity............ OK
-[00:00:06] Developer detected................. ✓
+### [ SYSTEM LOG ]
 
-> SYSTEM READY
-> KEEP BUILDING.
+
+[00:00:01] Initializing developer profile... OK
+[00:00:02] Loading repositories............... OK
+[00:00:03] Loading technologies............. OK
+[00:00:04] Loading projects................ OK
+[00:00:05] Loading GitHub activity......... OK
+[00:00:06] Developer detected.............. ✓
+
+>SYSTEM READY. 
+>KEEP BUILDING.
 
 </pre></div>---
 
